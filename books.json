@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "a funny book",
+		"authors": ["Jean Bon", "Alex Terieur"],
+		"book_category": "/novel/comedy"
+	},
+	{
+		"id": 2,
+		"title": "a dramatic book",
+		"authors": ["Alex Terieur"],
+		"book_category": "/novel/drama"
+	},
+	{
+		"id": 3,
+		"title": "A hilarious book",
+		"authors": ["Marc Assin", "Harry Covert"],
+		"book_category": "/book/comedy"
+	},
+	{
+		"id": 4,
+		"title": "A sad story",
+		"authors": ["Gerard Menvusa", "Alex Terieur"],
+		"book_category": "/novel/drama"
+	},
+	{
+		"id": 5,
+		"title": "A very sad story",
+		"authors": ["Gerard Menvusa", "Alain Terieur"],
+		"book_category": "/novel/tragedy"
+	}	
+]
